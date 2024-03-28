@@ -1,6 +1,8 @@
 # snowflake simple sql querys 
 
+
 ## 1 - Top 10, product soled per location id 
+
 
     WITH RankedProducts AS (
       SELECT
@@ -22,7 +24,10 @@ sample snapshot
   <img width="1106" alt="Screenshot 2024-03-28 at 10 30 52 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/436ffb72-cef9-44ff-bf36-38267b18c7b7">
 
 
+
 ### lowest 3, product soled per location id 
+
+
     WITH RankedProducts AS (
       SELECT
         location_id,
@@ -43,7 +48,10 @@ sample snapshot
 
   <img width="1111" alt="Screenshot 2024-03-28 at 10 29 44 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/cd55c71e-94e8-4154-9e39-9a5dabcc60ef">
 
+
+
 ## 2 Best Location sales
+
 
     SELECT
       location_id,
@@ -58,7 +66,9 @@ sample snapshot
   <img width="1117" alt="Screenshot 2024-03-28 at 10 32 59 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/d49ab2e3-4d41-4070-8c37-5b0e3521eb67">
 
 
+
 ## 3 best time for sale per location
+
 
     WITH SalesRank AS (
       SELECT
@@ -82,7 +92,9 @@ sample snapshot
  <img width="1115" alt="Screenshot 2024-03-28 at 10 34 58 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/14dd5eaf-5208-44d8-962b-1f35653e5c80">
 
 
+
 ## 4 quantity per day per location
+
 
 
     select
@@ -98,7 +110,9 @@ sample snapshot
    <img width="1111" alt="Screenshot 2024-03-28 at 10 36 48 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/1beb113c-39ef-425a-81f9-21539b4d9474">
 
 
+
 ## 5 Month to Date sales per location
+
     
     WITH DailySales AS (
       SELECT

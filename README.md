@@ -136,5 +136,5 @@ sample snapshot
 
   sample snapshot
 
-    <img width="1112" alt="Screenshot 2024-03-28 at 10 38 17 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/0f25a86d-e791-47b3-89d1-55e29e058b20">
+ <img width="1112" alt="Screenshot 2024-03-28 at 10 38 17 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/0f25a86d-e791-47b3-89d1-55e29e058b20">
 

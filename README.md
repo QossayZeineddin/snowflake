@@ -79,7 +79,7 @@ sample snapshot
 
   sample snapshot
 
-    <img width="1115" alt="Screenshot 2024-03-28 at 10 34 58 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/14dd5eaf-5208-44d8-962b-1f35653e5c80">
+ <img width="1115" alt="Screenshot 2024-03-28 at 10 34 58 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/14dd5eaf-5208-44d8-962b-1f35653e5c80">
 
 
 ## 4 quantity per day per location
@@ -95,7 +95,7 @@ sample snapshot
 
   sample snapshot
   
-    <img width="1111" alt="Screenshot 2024-03-28 at 10 36 48 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/1beb113c-39ef-425a-81f9-21539b4d9474">
+   <img width="1111" alt="Screenshot 2024-03-28 at 10 36 48 AM" src="https://github.com/QossayZeineddin/snowflake/assets/103140839/1beb113c-39ef-425a-81f9-21539b4d9474">
 
 
 ## 5 Month to Date sales per location

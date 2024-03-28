@@ -2,10 +2,10 @@
 
 ### the database schema is 
 
-LOCATION_ID	|   DATE_TIME                |	PRODUCT_NAME                | QUANTITY | PRICE
-3766365	    |  2024-02-01 20:00:00.000	 | Blueberry Chiffon Cake Slice | 1        | 6.590
-3766365     |  2024-02-01 20:00:00.000	 | Cheese Tart	                | 1	       | 3.490
-6561974	    |  2024-02-01 18:00:00.000	 | 10 Boneless Wings	        | 1        | 13.990
+LOCATION_ID	|   DATE_TIME                |	PRODUCT_NAME                | QUANTITY | PRICE  \
+3766365	    |  2024-02-01 20:00:00.000	 | Blueberry Chiffon Cake Slice | 1        | 6.590 \
+3766365     |  2024-02-01 20:00:00.000	 | Cheese Tart	                | 1	       | 3.490 \
+6561974	    |  2024-02-01 18:00:00.000	 | 10 Boneless Wings	        | 1        | 13.990 \
 
 ## 1 - Top 10, product soled per location id 
 
